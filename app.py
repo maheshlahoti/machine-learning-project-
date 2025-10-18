@@ -198,7 +198,7 @@ with st.sidebar:
     <div style="text-align: center; padding: 2rem 0;">
         <h1 style="color: white; margin-bottom: 2rem;">🎬 Movie Pro</h1>
         <p style="color: white; margin-bottom: 1rem;">
-            <a href="https://github.com/vivekggg/movie2watch" target="_blank" style="color: #fff; text-decoration: none; font-size: 0.9rem;">
+            <a href="https://github.com/maheshlahoti/machine-learning-project-" target="_blank" style="color: #fff; text-decoration: none; font-size: 0.9rem;">
                 🔗 GitHub Repository
             </a>
         </p>
@@ -438,7 +438,7 @@ elif selectedmenu == "📁 Projects":
                 <li>🖼️ Movie poster integration</li>
                 <li>📊 4,800+ movie database</li>
             </ul>
-            <p><strong>🔗 GitHub Repository:</strong> <a href="https://github.com/vivekggg/movie2watch" target="_blank" style="color: #fff; text-decoration: underline;">https://github.com/vivekggg/movie2watch</a></p>
+            <p><strong>🔗 GitHub Repository:</strong> <a href="https://github.com/maheshlahoti/machine-learning-project-" target="_blank" style="color: #fff; text-decoration: underline;">https://github.com/maheshlahoti/machine-learning-project-</a></p>
         </div>
         """, unsafe_allow_html=True)
     
@@ -469,7 +469,7 @@ elif selectedmenu == "📞 Contacts":
             <h3 class="movie-title">📧 Contact Information</h3>
             <p><strong>Email:</strong> cinecuco@gmail.com</p>
             <p><strong>Project:</strong> Movie Recommender Pro</p>
-            <p><strong>GitHub:</strong> <a href="https://github.com/vivekggg/movie2watch" target="_blank" style="color: #fff; text-decoration: underline;">github.com/vivekggg/movie2watch</a></p>
+            <p><strong>GitHub:</strong> <a href="https://github.com/maheshlahoti/machine-learning-project-" target="_blank" style="color: #fff; text-decoration: underline;">https://github.com/maheshlahoti/machine-learning-project-</a></p>
             <p><strong>Status:</strong> Available for collaboration</p>
         </div>
         """, unsafe_allow_html=True)
