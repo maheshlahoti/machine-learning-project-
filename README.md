@@ -19,9 +19,10 @@ An AI-powered movie recommendation system that uses content-based filtering to s
 
 ## 🚀 Live Demo
 
-https://movie2watch-gpaedaczbhduinkn2wjtc6.streamlit.app/
+https://ly32tiut238xxgyzr9yrns.streamlit.app/
 
 **🔗 GitHub Repository**: [https://github.com/maheshlahoti/machine-learning-project-](https://github.com/maheshlahoti/machine-learning-project-)
+
 
 ## 🛠️ Technologies Used
 
