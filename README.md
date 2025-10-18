@@ -21,7 +21,7 @@ An AI-powered movie recommendation system that uses content-based filtering to s
 
 https://movie2watch-gpaedaczbhduinkn2wjtc6.streamlit.app/
 
-**🔗 GitHub Repository**: [https://github.com/vivekggg/movie2watch](https://github.com/vivekggg/movie2watch)
+**🔗 GitHub Repository**: [https://github.com/maheshlahoti/machine-learning-project-](https://github.com/maheshlahoti/machine-learning-project-)
 
 ## 🛠️ Technologies Used
 
@@ -39,45 +39,6 @@ https://movie2watch-gpaedaczbhduinkn2wjtc6.streamlit.app/
 - Python 3.8 or higher
 - pip (Python package installer)
 
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/vivekggg/movie2watch.git
-cd movie2watch
-```
-
-### Step 2: Create Virtual Environment
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-### Step 3: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 4: Generate Data Files
-
-Before running the app, you need to generate the required data files:
-
-```bash
-python generate_data.py
-```
-
-This will create:
-- `movies_dict.pkl` - Movie data dictionary
-- `similarity.pkl` - Similarity matrix for recommendations
-
-### Step 5: Run the Application
-
-```bash
-streamlit run app.py
-```
-
-The app will be available at `http://localhost:8501`
 
 ## 📁 Project Structure
 
@@ -128,20 +89,6 @@ The application uses the TMDB 5000 Movie Dataset which includes:
 
 ## 🔧 Configuration
 
-### TMDB API Setup
-
-1. Get a free API key from [TMDB](https://www.themoviedb.org/settings/api)
-2. Replace the API key in `app.py`:
-```python
-response = requests.get(
-    f'https://api.themoviedb.org/3/movie/{movie_id}?api_key=YOUR_API_KEY&language=en-US'
-)
-```
-## 🙏 Acknowledgments
-
-- [TMDB](https://www.themoviedb.org/) for movie data and posters
-- [Streamlit](https://streamlit.io/) for the amazing web framework
-- [Scikit-learn](https://scikit-learn.org/) for machine learning tools
 
 ## 📈 Future Enhancements
 
